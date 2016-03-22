@@ -13,18 +13,6 @@
                     <key>url</key>
                     <string>http://ibenew.cn/bi/alpha/file/iBenewBI.ipa</string>
                 </dict>
-	<dict>
-		<key>kind</key>
-		<string>display-image</string>
-		<key>url</key>
-		<string>http://ibenew.cn/bi/alpha/file/MasterEasyToInstall57x57.png</string>
-		</dict>
-	<dict>
-		<key>kind</key>
-		<string>full-size-image</string>
-		<key>url</key>
-		<string>http://ibenew.cn/bi/alpha/file/MasterEasyToInstall512x512.png</string>
-		</dict>
             </array>
             <key>metadata</key>
             <dict>
