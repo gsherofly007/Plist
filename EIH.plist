@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.30.77:8080/upload/image/666.ipa</string>
+                    <string>http://192.168.30.77:8088/upload/image/666.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
