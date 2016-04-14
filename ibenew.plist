@@ -14,6 +14,7 @@
                     <string>http://ibenew.cn/bi/alpha/file/iBenewBI.ipa</string>
                 </dict>
             </array>
+            
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
